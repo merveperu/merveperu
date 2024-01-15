@@ -4,18 +4,6 @@
 
 ###
 
-<p align="left">My name is Merve and I'm working on creating mobile apps!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🎯 Goals: to be an Android Developer</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
